@@ -1,0 +1,166 @@
+What is your gender?,Please select the district you are living?,What is your family’s monthly income?,On what level do you have access to the required technical devices for e-learning? (1 being no access and 5 being having enough access),Who is your internet service provider?(Please select the most frequently used one),What is the level of satisfaction about your internet connection?,What is your university?,What is the academic year?,What is your field of education?,How long have you been using e-learning?,How many hours per week you spend on lectures?,On what level do you interact with the lecturers during the class?,How much you satisfied with the quality of teaching?,What is your level of satisfaction regarding online exams and assignments?,Are you satisfied with the time you are getting during the exams and online assignments?,What is the level of satisfaction of your lab lessons/practical lessons?,How satisfied are you with your interactions with your batch mates?,Up to what level do you engage with extra-curricular activities that your university conducts?,"How distracted you get during your online lessons? (Eg: Due to loss of internet connection, background noise etc.)",How much you prefer e-learning over in-premises learning?
+Female,Hambantota,"20,000 – 50,000",3,Dialog Axiata,3,Wayamba University,4th year,Other,More than 2 years,Less than 10 hours,2,2,3,3,3,3,3,3,3
+Female,Hambantota,"20,000 – 50,000",3,Mobitel,3,Wayamba University,4th year,Other,1-2 years,30 – 40 hours,3,3,3,3,3,3,3,3,3
+Female,Galle,"20,000 – 50,000",2,Sri Lanka Telecom,2,Wayamba University,4th year,Other,1-2 years,10 - 20 hours,3,2,2,3,3,1,3,1,2
+Female,Hambantota,"20,000 – 50,000",4,Mobitel,3,University of Ruhuna,4th year,Business & Management,1-2 years,Less than 10 hours,4,4,4,3,3,2,3,3,2
+Male,Hambantota,"Less than 20,000",3,Dialog Axiata,2,University of Moratuwa,1st year,Engineering,More than 2 years,More than 40 hours,3,2,5,4,1,3,4,1,4
+Female,Galle,"Less than 20,000",5,Dialog Axiata,3,University of Ruhuna,5th year,Medicine and Health,1-2 years,Less than 10 hours,2,3,1,1,3,2,1,3,3
+Female,Galle,"50,000 - 100,000",3,Dialog Axiata,3,Wayamba University,4th year,Other,More than 2 years,10 - 20 hours,4,3,4,3,4,4,2,3,1
+Female,Matara,"20,000 – 50,000",4,Dialog Axiata,4,University of Moratuwa,4th year,Engineering,1-2 years,20 – 30 hours,3,3,3,3,3,3,3,3,3
+Female,Hambantota,"50,000 - 100,000",5,Dialog Axiata,3,Sri Jayewardenepura,3rd year,Other,1-2 years,10 - 20 hours,3,4,4,4,3,3,3,3,4
+Female,Hambantota,"50,000 - 100,000",5,Sri Lanka Telecom,5,University of Moratuwa,4th year,Computing & IT,1-2 years,10 - 20 hours,4,2,4,4,3,1,3,5,3
+Female,Hambantota,"20,000 – 50,000",3,Mobitel,3,Wayamba University,3rd year,Food Science & Agriculture,1-2 years,30 – 40 hours,3,3,4,3,3,3,3,3,3
+Female,Colombo,"20,000 – 50,000",5,Dialog Axiata,4,University of Moratuwa,2nd year,Engineering,Less than 6 months,More than 40 hours,5,4,4,4,5,4,3,5,4
+Female,Matara,"20,000 – 50,000",5,Sri Lanka Telecom,4,Sri Jayewardenepura,4th year,Computing & IT,6months – 1year,10 - 20 hours,4,4,4,4,4,2,2,4,3
+Male,Galle,"20,000 – 50,000",3,Dialog Axiata,2,University of Ruhuna,1st year,Medicine and Health,More than 2 years,Less than 10 hours,2,1,1,3,2,3,1,1,3
+Female,Ratnapura,"More than 100,000",4,Sri Lanka Telecom,1,University of Colombo,2nd year,Computing & IT,More than 2 years,20 – 30 hours,5,4,4,2,3,1,1,5,4
+Male,Matara,"50,000 - 100,000",3,Hutch Sri Lanka,3,University of Ruhuna,1st year,Other,Less than 6 months,20 – 30 hours,4,3,3,3,2,2,2,5,1
+Female,Ratnapura,"50,000 - 100,000",3,Mobitel,3,Kothalawala Defence University,1st year,Computing & IT,Less than 6 months,30 – 40 hours,4,4,3,2,3,2,2,4,2
+Female,Hambantota,"20,000 – 50,000",5,Mobitel,2,University of Ruhuna,5th year,Medicine and Health,6months – 1year,10 - 20 hours,4,2,2,3,4,2,2,5,5
+Female,Hambantota,"20,000 – 50,000",4,Dialog Axiata,3,University of Colombo,4th year,Mathematics,1-2 years,10 - 20 hours,4,4,3,4,2,4,4,4,5
+Male,Ratnapura,"20,000 – 50,000",3,Dialog Axiata,1,University of Ruhuna,1st year,Medicine and Health,1-2 years,20 – 30 hours,2,3,1,1,3,3,3,1,3
+Male,Matale,"50,000 - 100,000",3,Sri Lanka Telecom,1,University of Ruhuna,1st year,Medicine and Health,Less than 6 months,20 – 30 hours,3,3,1,1,1,3,3,2,1
+Female,Hambantota,"50,000 - 100,000",4,Sri Lanka Telecom,3,University of Peradeniya,4th year,Engineering,1-2 years,30 – 40 hours,4,4,4,3,3,2,3,4,3
+Female,Matara,"Less than 20,000",3,Mobitel,4,University of Moratuwa,1st year,Engineering,Less than 6 months,10 - 20 hours,3,2,3,3,3,2,2,3,2
+Male,Hambantota,"50,000 - 100,000",3,Dialog Axiata,2,University of Moratuwa,3rd year,Engineering,1-2 years,30 – 40 hours,3,4,4,4,3,3,4,4,4
+Female,Gampaha,"50,000 - 100,000",4,Mobitel,3,University of Colombo,2nd year,Computing & IT,6months – 1year,20 – 30 hours,2,2,2,4,1,1,1,5,2
+Female,Matara,"50,000 - 100,000",4,Sri Lanka Telecom,3,University of Moratuwa,4th year,Engineering,1-2 years,20 – 30 hours,3,4,3,3,5,3,3,3,3
+Male,Hambantota,"50,000 - 100,000",5,Mobitel,4,University of Moratuwa,4th year,Engineering,6months – 1year,10 - 20 hours,4,4,5,4,3,4,1,3,5
+Female,Colombo,"More than 100,000",4,Sri Lanka Telecom,4,Sri Jayewardenepura,4th year,Computing & IT,1-2 years,20 – 30 hours,4,4,4,5,3,4,3,3,4
+Female,Kalutara,"50,000 - 100,000",4,Mobitel,3,Kothalawala Defence University,1st year,Computing & IT,6months – 1year,20 – 30 hours,4,3,2,4,3,2,2,3,3
+Female,Matara,"Less than 20,000",2,Mobitel,3,Wayamba University,3rd year,Other,1-2 years,Less than 10 hours,3,4,4,4,3,4,5,4,1
+Male,Galle,"20,000 – 50,000",4,Dialog Axiata,3,Kothalawala Defence University,1st year,Computing & IT,6months – 1year,20 – 30 hours,3,4,3,4,4,4,4,3,3
+Female,Galle,"50,000 - 100,000",3,Sri Lanka Telecom,3,Kothalawala Defence University,1st year,Computing & IT,6months – 1year,More than 40 hours,3,3,3,2,2,2,3,4,2
+Female,Gampaha,"More than 100,000",5,Mobitel,3,Kothalawala Defence University,1st year,Computing & IT,1-2 years,More than 40 hours,3,3,4,2,2,3,3,3,3
+Female,Badulla,"20,000 – 50,000",3,Dialog Axiata,1,University of Moratuwa,4th year,Engineering,1-2 years,20 – 30 hours,2,4,1,1,1,1,5,5,2
+Male,Gampaha,"More than 100,000",4,Lanka Bell Limited,5,University of Moratuwa,4th year,Computing & IT,More than 2 years,Less than 10 hours,1,3,3,3,3,3,3,4,3
+Female,Hambantota,"50,000 - 100,000",4,Sri Lanka Telecom,3,University of Jaffna,4th year,Other,Less than 6 months,20 – 30 hours,4,4,3,3,1,2,2,3,3
+Male,Puttalam,"20,000 – 50,000",1,Sri Lanka Telecom,3,Wayamba University,4th year,Food Science & Agriculture,More than 2 years,10 - 20 hours,4,5,4,4,1,2,2,2,2
+Female,Colombo,"More than 100,000",5,Sri Lanka Telecom,5,Sri Jayewardenepura,4th year,Business & Management,More than 2 years,30 – 40 hours,5,5,5,5,5,2,2,4,3
+Female,Gampaha,"20,000 – 50,000",3,Mobitel,5,Open University,1st year,Business & Management,Less than 6 months,Less than 10 hours,3,3,3,4,3,3,2,3,3
+Female,Matara,"More than 100,000",5,Sri Lanka Telecom,4,University of Moratuwa,1st year,Computing & IT,1-2 years,10 - 20 hours,1,3,3,3,3,2,2,4,2
+Female,Matara,"More than 100,000",5,Dialog Axiata,3,University of Ruhuna,2nd year,Languages,1-2 years,10 - 20 hours,2,3,3,3,2,2,2,4,1
+Female,Hambantota,"50,000 - 100,000",3,Dialog Axiata,4,University of Moratuwa,4th year,Computing & IT,More than 2 years,30 – 40 hours,4,3,3,3,3,3,3,3,3
+Male,Galle,"More than 100,000",4,Sri Lanka Telecom,5,University of Moratuwa,4th year,Computing & IT,More than 2 years,20 – 30 hours,3,4,5,1,3,4,3,4,5
+Female,Kegalle,"20,000 – 50,000",3,Dialog Axiata,3,Wayamba University,4th year,Other,More than 2 years,30 – 40 hours,2,4,3,3,2,3,2,4,1
+Male,Badulla,"50,000 - 100,000",4,Sri Lanka Telecom,3,Sri Jayewardenepura,3rd year,Computing & IT,1-2 years,20 – 30 hours,4,4,3,4,2,3,2,4,4
+Male,Matara,"More than 100,000",4,Sri Lanka Telecom,5,University of Moratuwa,4th year,Computing & IT,1-2 years,10 - 20 hours,2,4,4,4,4,1,2,3,1
+Male,Gampaha,"20,000 – 50,000",3,Dialog Axiata,3,University of Moratuwa,2nd year,Engineering,More than 2 years,20 – 30 hours,4,4,4,3,2,1,1,4,2
+Female,Colombo,"More than 100,000",5,Sri Lanka Telecom,5,University of Moratuwa,5th year,Computing & IT,1-2 years,20 – 30 hours,2,3,3,4,5,1,2,3,1
+Male,Matara,"More than 100,000",5,Sri Lanka Telecom,2,University of Moratuwa,4th year,Computing & IT,6months – 1year,30 – 40 hours,4,4,5,4,3,2,3,3,4
+Female,Galle,"More than 100,000",4,Sri Lanka Telecom,4,University of Moratuwa,4th year,Engineering,1-2 years,More than 40 hours,2,3,4,3,2,2,2,4,2
+Male,Kurunegala,"More than 100,000",4,Sri Lanka Telecom,4,University of Moratuwa,4th year,Engineering,1-2 years,20 – 30 hours,4,4,4,3,3,2,2,4,2
+Female,Gampaha,"50,000 - 100,000",5,Mobitel,3,University of Peradeniya,2nd year,Arts & Humanities,6months – 1year,20 – 30 hours,3,4,4,2,2,1,1,3,2
+Female,Colombo,"20,000 – 50,000",3,Dialog Axiata,3,Wayamba University,4th year,Other,More than 2 years,Less than 10 hours,2,3,3,3,3,3,3,3,3
+Female,Colombo,"20,000 – 50,000",3,Mobitel,3,Wayamba University,4th year,Other,1-2 years,30 – 40 hours,3,3,3,3,3,3,3,3,3
+Female,Colombo,"20,000 – 50,000",2,Sri Lanka Telecom,2,Wayamba University,4th year,Other,1-2 years,10 - 20 hours,3,2,2,3,3,1,3,1,2
+Female,Hambantota,"20,000 – 50,000",4,Mobitel,3,University of Ruhuna,4th year,Business & Management,1-2 years,Less than 10 hours,4,4,4,3,3,2,3,3,2
+Male,Hambantota,"Less than 20,000",3,Dialog Axiata,2,University of Moratuwa,1st year,Engineering,More than 2 years,More than 40 hours,3,5,5,4,1,3,4,1,4
+Female,Gampaha,"Less than 20,000",5,Dialog Axiata,3,University of Ruhuna,5th year,Medicine and Health,1-2 years,Less than 10 hours,2,4,1,1,3,2,1,3,3
+Male,Hambantota,"50,000 - 100,000",3,Dialog Axiata,3,Wayamba University,4th year,Other,More than 2 years,10 - 20 hours,4,4,4,3,4,4,2,3,1
+Male,Hambantota,"20,000 – 50,000",4,Dialog Axiata,4,University of Moratuwa,4th year,Engineering,1-2 years,20 – 30 hours,3,3,3,3,3,3,3,3,3
+Female,Matara,"Less than 20,000",5,Dialog Axiata,3,Sri Jayewardenepura,3rd year,Other,1-2 years,10 - 20 hours,3,4,4,4,3,3,3,3,4
+Female,Matara,"Less than 20,000",5,Sri Lanka Telecom,5,University of Moratuwa,4th year,Computing & IT,1-2 years,10 - 20 hours,4,4,4,4,3,1,3,5,3
+Female,Matara,"20,000 – 50,000",3,Mobitel,3,Wayamba University,3rd year,Food Science & Agriculture,1-2 years,30 – 40 hours,3,3,4,3,3,3,3,3,3
+Female,Colombo,"20,000 – 50,000",5,Dialog Axiata,4,University of Moratuwa,2nd year,Engineering,Less than 6 months,More than 40 hours,5,4,4,4,5,4,3,5,4
+Female,Colombo,"Less than 20,000",5,Sri Lanka Telecom,4,Sri Jayewardenepura,4th year,Computing & IT,6months – 1year,10 - 20 hours,4,4,4,4,4,2,2,4,3
+Male,Colombo,"20,000 – 50,000",3,Dialog Axiata,2,University of Ruhuna,1st year,Medicine and Health,More than 2 years,Less than 10 hours,2,1,1,3,2,3,1,1,3
+Female,Ratnapura,"More than 100,000",4,Sri Lanka Telecom,1,University of Colombo,2nd year,Computing & IT,More than 2 years,20 – 30 hours,5,4,4,2,3,1,1,5,4
+Male,Matara,"50,000 - 100,000",3,Hutch Sri Lanka,3,University of Ruhuna,1st year,Other,Less than 6 months,20 – 30 hours,4,3,3,3,2,2,2,5,1
+Female,Ratnapura,"50,000 - 100,000",3,Mobitel,3,Kothalawala Defence University,1st year,Computing & IT,Less than 6 months,30 – 40 hours,4,3,3,2,3,2,2,4,2
+Male,Hambantota,"20,000 – 50,000",5,Mobitel,2,University of Ruhuna,5th year,Medicine and Health,6months – 1year,10 - 20 hours,4,3,2,3,4,2,2,5,5
+Female,Hambantota,"20,000 – 50,000",4,Dialog Axiata,3,University of Colombo,4th year,Mathematics,1-2 years,10 - 20 hours,4,3,3,4,2,4,4,4,5
+Male,Ratnapura,"Less than 20,000",3,Dialog Axiata,1,University of Ruhuna,1st year,Medicine and Health,1-2 years,20 – 30 hours,2,3,1,1,3,3,3,1,3
+Male,Matale,"50,000 - 100,000",3,Sri Lanka Telecom,1,University of Ruhuna,1st year,Medicine and Health,Less than 6 months,20 – 30 hours,3,3,1,1,1,3,3,2,1
+Female,Ratnapura,"50,000 - 100,000",4,Sri Lanka Telecom,3,University of Peradeniya,4th year,Engineering,1-2 years,30 – 40 hours,4,4,4,3,3,2,3,4,3
+Female,Gampaha,"Less than 20,000",3,Mobitel,4,University of Moratuwa,1st year,Engineering,Less than 6 months,10 - 20 hours,3,2,3,3,3,2,2,3,2
+Male,Ratnapura,"50,000 - 100,000",3,Dialog Axiata,2,University of Moratuwa,3rd year,Engineering,1-2 years,30 – 40 hours,3,4,4,4,3,3,4,4,4
+Female,Gampaha,"50,000 - 100,000",4,Mobitel,3,University of Colombo,2nd year,Computing & IT,6months – 1year,20 – 30 hours,2,2,2,4,1,1,1,5,2
+Female,Gampaha,"Less than 20,000",4,Sri Lanka Telecom,3,University of Moratuwa,4th year,Engineering,1-2 years,20 – 30 hours,3,4,3,3,5,3,3,3,3
+Male,Gampaha,"50,000 - 100,000",5,Mobitel,4,University of Moratuwa,4th year,Engineering,6months – 1year,10 - 20 hours,4,4,5,4,3,4,1,3,5
+Female,Colombo,"More than 100,000",4,Sri Lanka Telecom,4,Sri Jayewardenepura,4th year,Computing & IT,1-2 years,20 – 30 hours,4,4,4,5,3,4,3,3,4
+Female,Kalutara,"50,000 - 100,000",4,Mobitel,3,Kothalawala Defence University,1st year,Computing & IT,6months – 1year,20 – 30 hours,4,3,2,4,3,2,2,3,3
+Female,Matara,"Less than 20,000",2,Mobitel,3,Wayamba University,3rd year,Other,1-2 years,Less than 10 hours,3,4,4,4,3,4,5,4,1
+Male,Galle,"20,000 – 50,000",4,Dialog Axiata,3,Kothalawala Defence University,1st year,Computing & IT,6months – 1year,20 – 30 hours,3,4,3,4,4,4,4,3,3
+Female,Galle,"50,000 - 100,000",3,Sri Lanka Telecom,3,Kothalawala Defence University,1st year,Computing & IT,6months – 1year,More than 40 hours,3,3,3,2,2,2,3,4,2
+Female,Gampaha,"More than 100,000",5,Mobitel,3,Kothalawala Defence University,1st year,Computing & IT,1-2 years,More than 40 hours,3,3,4,2,2,3,3,3,3
+Female,Badulla,"20,000 – 50,000",3,Dialog Axiata,1,University of Moratuwa,4th year,Engineering,1-2 years,20 – 30 hours,2,4,1,1,1,1,5,5,2
+Male,Galle,"More than 100,000",4,Lanka Bell Limited,5,University of Moratuwa,4th year,Computing & IT,More than 2 years,Less than 10 hours,1,3,3,3,3,3,3,4,3
+Female,Galle,"50,000 - 100,000",4,Sri Lanka Telecom,3,University of Jaffna,4th year,Other,Less than 6 months,20 – 30 hours,4,4,3,3,1,2,2,3,3
+Male,Puttalam,"20,000 – 50,000",1,Sri Lanka Telecom,3,Wayamba University,4th year,Food Science & Agriculture,More than 2 years,10 - 20 hours,4,5,4,4,1,2,2,2,2
+Female,Colombo,"More than 100,000",5,Sri Lanka Telecom,5,Sri Jayewardenepura,4th year,Business & Management,More than 2 years,30 – 40 hours,5,5,5,5,5,2,2,4,3
+Male,Gampaha,"20,000 – 50,000",3,Mobitel,5,Open University,1st year,Business & Management,Less than 6 months,Less than 10 hours,3,3,3,4,3,3,2,3,3
+Female,Galle,"More than 100,000",5,Sri Lanka Telecom,4,University of Moratuwa,1st year,Computing & IT,1-2 years,10 - 20 hours,1,3,3,3,3,2,2,4,2
+Female,Galle,"More than 100,000",5,Dialog Axiata,3,University of Ruhuna,2nd year,Languages,1-2 years,10 - 20 hours,2,3,3,3,2,2,2,4,1
+Female,Puttalam,"50,000 - 100,000",3,Dialog Axiata,4,University of Moratuwa,4th year,Computing & IT,More than 2 years,30 – 40 hours,4,3,3,3,3,3,3,3,3
+Male,Gampaha,"More than 100,000",4,Sri Lanka Telecom,5,University of Moratuwa,4th year,Computing & IT,More than 2 years,20 – 30 hours,3,4,5,1,3,4,3,4,5
+Female,Puttalam,"20,000 – 50,000",3,Dialog Axiata,3,Wayamba University,4th year,Other,More than 2 years,30 – 40 hours,2,4,3,3,2,3,2,4,1
+Male,Badulla,"50,000 - 100,000",4,Sri Lanka Telecom,3,Sri Jayewardenepura,3rd year,Computing & IT,1-2 years,20 – 30 hours,4,4,3,4,2,3,2,4,4
+Female,Puttalam,"More than 100,000",4,Sri Lanka Telecom,5,University of Moratuwa,4th year,Computing & IT,1-2 years,10 - 20 hours,2,4,4,4,4,1,2,3,1
+Male,Gampaha,"20,000 – 50,000",3,Dialog Axiata,3,University of Moratuwa,2nd year,Engineering,More than 2 years,20 – 30 hours,4,4,4,3,2,1,1,4,2
+Female,Colombo,"More than 100,000",5,Sri Lanka Telecom,5,University of Moratuwa,5th year,Computing & IT,1-2 years,20 – 30 hours,2,3,3,4,5,1,2,3,1
+Female,Matara,"More than 100,000",5,Sri Lanka Telecom,2,University of Moratuwa,4th year,Computing & IT,6months – 1year,30 – 40 hours,4,4,5,4,3,2,3,3,4
+Female,Puttalam,"More than 100,000",4,Sri Lanka Telecom,4,University of Moratuwa,4th year,Engineering,1-2 years,More than 40 hours,2,3,4,3,2,2,2,4,2
+Male,Puttalam,"More than 100,000",4,Sri Lanka Telecom,4,University of Moratuwa,4th year,Engineering,1-2 years,20 – 30 hours,4,4,4,3,3,2,2,4,2
+Female,Gampaha,"50,000 - 100,000",5,Mobitel,3,University of Peradeniya,2nd year,Arts & Humanities,6months – 1year,20 – 30 hours,3,4,4,2,2,1,1,3,2
+Female,Badulla,"20,000 – 50,000",3,Dialog Axiata,1,University of Moratuwa,4th year,Engineering,1-2 years,20 – 30 hours,2,4,1,1,1,1,5,5,2
+Male,Gampaha,"More than 100,000",4,Lanka Bell Limited,5,University of Moratuwa,4th year,Computing & IT,More than 2 years,Less than 10 hours,1,3,3,3,3,3,3,4,3
+Female,Hambantota,"50,000 - 100,000",4,Sri Lanka Telecom,3,University of Jaffna,4th year,Other,Less than 6 months,20 – 30 hours,4,4,3,3,1,2,2,3,3
+Male,Puttalam,"20,000 – 50,000",1,Sri Lanka Telecom,3,Wayamba University,4th year,Food Science & Agriculture,More than 2 years,10 - 20 hours,4,5,4,4,1,2,2,2,2
+Female,Colombo,"More than 100,000",5,Sri Lanka Telecom,5,Sri Jayewardenepura,4th year,Business & Management,More than 2 years,30 – 40 hours,5,5,5,5,5,2,2,4,3
+Female,Gampaha,"20,000 – 50,000",3,Mobitel,5,Open University,1st year,Business & Management,Less than 6 months,Less than 10 hours,3,3,3,4,3,3,2,3,3
+Female,Matara,"More than 100,000",5,Sri Lanka Telecom,4,University of Moratuwa,1st year,Computing & IT,1-2 years,10 - 20 hours,1,3,3,3,3,2,2,4,2
+Female,Matara,"More than 100,000",5,Dialog Axiata,3,University of Ruhuna,2nd year,Languages,1-2 years,10 - 20 hours,2,3,3,3,2,2,2,4,1
+Female,Hambantota,"50,000 - 100,000",3,Dialog Axiata,4,University of Moratuwa,4th year,Computing & IT,More than 2 years,30 – 40 hours,4,3,3,3,3,3,3,3,3
+Male,Galle,"More than 100,000",4,Sri Lanka Telecom,5,University of Moratuwa,4th year,Computing & IT,More than 2 years,20 – 30 hours,3,4,5,1,3,4,3,4,5
+Female,Kegalle,"20,000 – 50,000",3,Dialog Axiata,3,Wayamba University,4th year,Other,More than 2 years,30 – 40 hours,2,4,3,3,2,3,2,4,1
+Male,Badulla,"50,000 - 100,000",4,Sri Lanka Telecom,3,Sri Jayewardenepura,3rd year,Computing & IT,1-2 years,20 – 30 hours,4,4,3,4,2,3,2,4,4
+Male,Matara,"More than 100,000",4,Sri Lanka Telecom,5,University of Moratuwa,4th year,Computing & IT,1-2 years,10 - 20 hours,2,4,4,4,4,1,2,3,1
+Male,Gampaha,"20,000 – 50,000",3,Dialog Axiata,3,University of Moratuwa,2nd year,Engineering,More than 2 years,20 – 30 hours,4,4,4,3,2,1,1,4,2
+Female,Colombo,"More than 100,000",5,Sri Lanka Telecom,5,University of Moratuwa,5th year,Computing & IT,1-2 years,20 – 30 hours,2,3,3,4,5,1,2,3,1
+Male,Matara,"More than 100,000",5,Sri Lanka Telecom,2,University of Moratuwa,4th year,Computing & IT,6months – 1year,30 – 40 hours,4,4,5,4,3,2,3,3,4
+Female,Galle,"More than 100,000",4,Sri Lanka Telecom,4,University of Moratuwa,4th year,Engineering,1-2 years,More than 40 hours,2,3,4,3,2,2,2,4,2
+Male,Kurunegala,"More than 100,000",4,Sri Lanka Telecom,4,University of Moratuwa,4th year,Engineering,1-2 years,20 – 30 hours,4,4,4,3,3,2,2,4,2
+Female,Gampaha,"50,000 - 100,000",5,Mobitel,3,University of Peradeniya,2nd year,Arts & Humanities,6months – 1year,20 – 30 hours,3,4,4,2,2,1,1,3,2
+Female,Colombo,"20,000 – 50,000",3,Dialog Axiata,3,Wayamba University,4th year,Other,More than 2 years,Less than 10 hours,2,3,3,3,3,3,3,3,3
+Female,Colombo,"20,000 – 50,000",3,Mobitel,3,Wayamba University,4th year,Other,1-2 years,30 – 40 hours,3,3,3,3,3,3,3,3,3
+Female,Colombo,"20,000 – 50,000",2,Sri Lanka Telecom,2,Wayamba University,4th year,Other,1-2 years,10 - 20 hours,3,2,2,3,3,1,3,1,2
+Female,Hambantota,"20,000 – 50,000",4,Mobitel,3,University of Ruhuna,4th year,Business & Management,1-2 years,Less than 10 hours,4,4,4,3,3,2,3,3,2
+Male,Hambantota,"Less than 20,000",3,Dialog Axiata,2,University of Moratuwa,1st year,Engineering,More than 2 years,More than 40 hours,3,5,5,4,1,3,4,1,4
+Female,Gampaha,"Less than 20,000",5,Dialog Axiata,3,University of Ruhuna,5th year,Medicine and Health,1-2 years,Less than 10 hours,2,4,1,1,3,2,1,3,3
+Male,Hambantota,"50,000 - 100,000",3,Dialog Axiata,3,Wayamba University,4th year,Other,More than 2 years,10 - 20 hours,4,4,4,3,4,4,2,3,1
+Male,Hambantota,"20,000 – 50,000",4,Dialog Axiata,4,University of Moratuwa,4th year,Engineering,1-2 years,20 – 30 hours,3,3,3,3,3,3,3,3,3
+Female,Matara,"Less than 20,000",5,Dialog Axiata,3,Sri Jayewardenepura,3rd year,Other,1-2 years,10 - 20 hours,3,4,4,4,3,3,3,3,4
+Female,Matara,"Less than 20,000",5,Sri Lanka Telecom,5,University of Moratuwa,4th year,Computing & IT,1-2 years,10 - 20 hours,4,4,4,4,3,1,3,5,3
+Female,Matara,"20,000 – 50,000",3,Mobitel,3,Wayamba University,3rd year,Food Science & Agriculture,1-2 years,30 – 40 hours,3,3,4,3,3,3,3,3,3
+Female,Colombo,"20,000 – 50,000",5,Dialog Axiata,4,University of Moratuwa,2nd year,Engineering,Less than 6 months,More than 40 hours,5,4,4,4,5,4,3,5,4
+Female,Colombo,"Less than 20,000",5,Sri Lanka Telecom,4,Sri Jayewardenepura,4th year,Computing & IT,6months – 1year,10 - 20 hours,4,4,4,4,4,2,2,4,3
+Male,Colombo,"20,000 – 50,000",3,Dialog Axiata,2,University of Ruhuna,1st year,Medicine and Health,More than 2 years,Less than 10 hours,2,1,1,3,2,3,1,1,3
+Female,Ratnapura,"More than 100,000",4,Sri Lanka Telecom,1,University of Colombo,2nd year,Computing & IT,More than 2 years,20 – 30 hours,5,4,4,2,3,1,1,5,4
+Male,Matara,"50,000 - 100,000",3,Hutch Sri Lanka,3,University of Ruhuna,1st year,Other,Less than 6 months,20 – 30 hours,4,3,3,3,2,2,2,5,1
+Female,Ratnapura,"50,000 - 100,000",3,Mobitel,3,Kothalawala Defence University,1st year,Computing & IT,Less than 6 months,30 – 40 hours,4,3,3,2,3,2,2,4,2
+Male,Hambantota,"20,000 – 50,000",5,Mobitel,2,University of Ruhuna,5th year,Medicine and Health,6months – 1year,10 - 20 hours,4,3,2,3,4,2,2,5,5
+Female,Hambantota,"20,000 – 50,000",4,Dialog Axiata,3,University of Colombo,4th year,Mathematics,1-2 years,10 - 20 hours,4,3,3,4,2,4,4,4,5
+Male,Ratnapura,"Less than 20,000",3,Dialog Axiata,1,University of Ruhuna,1st year,Medicine and Health,1-2 years,20 – 30 hours,2,3,1,1,3,3,3,1,3
+Male,Matale,"50,000 - 100,000",3,Sri Lanka Telecom,1,University of Ruhuna,1st year,Medicine and Health,Less than 6 months,20 – 30 hours,3,3,1,1,1,3,3,2,1
+Female,Ratnapura,"50,000 - 100,000",4,Sri Lanka Telecom,3,University of Peradeniya,4th year,Engineering,1-2 years,30 – 40 hours,4,4,4,3,3,2,3,4,3
+Female,Gampaha,"Less than 20,000",3,Mobitel,4,University of Moratuwa,1st year,Engineering,Less than 6 months,10 - 20 hours,3,2,3,3,3,2,2,3,2
+Male,Ratnapura,"50,000 - 100,000",3,Dialog Axiata,2,University of Moratuwa,3rd year,Engineering,1-2 years,30 – 40 hours,3,4,4,4,3,3,4,4,4
+Female,Gampaha,"50,000 - 100,000",4,Mobitel,3,University of Colombo,2nd year,Computing & IT,6months – 1year,20 – 30 hours,2,2,2,4,1,1,1,5,2
+Female,Gampaha,"Less than 20,000",4,Sri Lanka Telecom,3,University of Moratuwa,4th year,Engineering,1-2 years,20 – 30 hours,3,4,3,3,5,3,3,3,3
+Male,Gampaha,"50,000 - 100,000",5,Mobitel,4,University of Moratuwa,4th year,Engineering,6months – 1year,10 - 20 hours,4,4,5,4,3,4,1,3,5
+Female,Colombo,"More than 100,000",4,Sri Lanka Telecom,4,Sri Jayewardenepura,4th year,Computing & IT,1-2 years,20 – 30 hours,4,4,4,5,3,4,3,3,4
+Female,Kalutara,"50,000 - 100,000",4,Mobitel,3,Kothalawala Defence University,1st year,Computing & IT,6months – 1year,20 – 30 hours,4,3,2,4,3,2,2,3,3
+Female,Matara,"Less than 20,000",2,Mobitel,3,Wayamba University,3rd year,Other,1-2 years,Less than 10 hours,3,4,4,4,3,4,5,4,1
+Male,Galle,"20,000 – 50,000",4,Dialog Axiata,3,Kothalawala Defence University,1st year,Computing & IT,6months – 1year,20 – 30 hours,3,4,3,4,4,4,4,3,3
+Female,Galle,"50,000 - 100,000",3,Sri Lanka Telecom,3,Kothalawala Defence University,1st year,Computing & IT,6months – 1year,More than 40 hours,3,3,3,2,2,2,3,4,2
+Female,Gampaha,"More than 100,000",5,Mobitel,3,Kothalawala Defence University,1st year,Computing & IT,1-2 years,More than 40 hours,3,3,4,2,2,3,3,3,3
+Female,Badulla,"20,000 – 50,000",3,Dialog Axiata,1,University of Moratuwa,4th year,Engineering,1-2 years,20 – 30 hours,2,4,1,1,1,1,5,5,2
+Male,Galle,"More than 100,000",4,Lanka Bell Limited,5,University of Moratuwa,4th year,Computing & IT,More than 2 years,Less than 10 hours,1,3,3,3,3,3,3,4,3
+Female,Galle,"50,000 - 100,000",4,Sri Lanka Telecom,3,University of Jaffna,4th year,Other,Less than 6 months,20 – 30 hours,4,4,3,3,1,2,2,3,3
+Male,Puttalam,"20,000 – 50,000",1,Sri Lanka Telecom,3,Wayamba University,4th year,Food Science & Agriculture,More than 2 years,10 - 20 hours,4,5,4,4,1,2,2,2,2
+Female,Colombo,"More than 100,000",5,Sri Lanka Telecom,5,Sri Jayewardenepura,4th year,Business & Management,More than 2 years,30 – 40 hours,5,5,5,5,5,2,2,4,3
+Male,Gampaha,"20,000 – 50,000",3,Mobitel,5,Open University,1st year,Business & Management,Less than 6 months,Less than 10 hours,3,3,3,4,3,3,2,3,3
+Female,Galle,"More than 100,000",5,Sri Lanka Telecom,4,University of Moratuwa,1st year,Computing & IT,1-2 years,10 - 20 hours,1,3,3,3,3,2,2,4,2
+Female,Galle,"More than 100,000",5,Dialog Axiata,3,University of Ruhuna,2nd year,Languages,1-2 years,10 - 20 hours,2,3,3,3,2,2,2,4,1
+Female,Hambantota,"50,000 - 100,000",3,Mobitel,3,Kothalawala Defence University,1st year,Computing & IT,6months – 1year,More than 40 hours,3,3,3,2,2,2,3,4,2
